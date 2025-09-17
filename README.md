@@ -1,4 +1,6 @@
-#                                                         Portfolio: A Sample React.js Project
+<p align="center" style="font-size: 24px; color: blue; font-family: Arial, sans-serif;">
+  <strong>Portfolio: A Sample React.js Project</strong>
+</p>
 
 ## This sample code is written using React.js and Material-UI. This project offers a simple experience of the capabilities of this platform, especially Material-UI. In this project, I   introduced myself through a portal along with my resume. I hope this serves as a good starting point for those interested in programming and inspires them to begin their journey.
 
