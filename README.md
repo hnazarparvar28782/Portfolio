@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">Portfolio: A Sample React.js Project</h1>
+<h1 align="center" style="color: blue;">Portfolio: A Sample React.js Project</h1>
 
 ## This sample code is written using React.js and Material-UI. This project offers a simple experience of the capabilities of this platform, especially Material-UI. In this project, I   introduced myself through a portal along with my resume. I hope this serves as a good starting point for those interested in programming and inspires them to begin their journey.
 
