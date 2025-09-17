@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px; color: blue; font-family: Arial, sans-serif;">
+<p align="center" style="font-size: 80px; color: blue; font-family: Arial, sans-serif;">
   <strong>Portfolio: A Sample React.js Project</strong>
 </p>
 
