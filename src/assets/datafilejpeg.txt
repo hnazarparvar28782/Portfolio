@@ -1,0 +1,3 @@
+f:/reacttoplearn14040511/179/myapp/src/assets\bg01.jpeg
+f:/reacttoplearn14040511/179/myapp/src/assets\bg02.jpeg
+f:/reacttoplearn14040511/179/myapp/src/assets\bg03.jpeg

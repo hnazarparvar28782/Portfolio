@@ -1,0 +1,8 @@
+f:/reacttoplearn14040511/179/myapp/src/assets\avatar.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\avatar02.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\ecmascript_course.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\nodejs_course.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\reactjs_course.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\reactnative_course.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\strapi_course.jpg
+f:/reacttoplearn14040511/179/myapp/src/assets\courses\vscode_course.jpg
