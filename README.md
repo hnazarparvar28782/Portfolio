@@ -1,3 +1,7 @@
+#This sample code is written using React.js and Material-UI. This project offers a simple experience of the capabilities of this platform, especially Material-UI. In this project, I introduced myself through a portal along with my resume. I hope this serves as a good starting point for those interested in programming and inspires them to begin their journey.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
