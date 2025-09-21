@@ -4,6 +4,7 @@
 
 ## Dieser Beispielcode ist mit React.js und Material-UI geschrieben. Dieses Projekt bietet eine einfache Erfahrung mit den Möglichkeiten dieser Plattform, insbesondere Material-UI. In diesem Projekt habe ich mich selbst über ein Portal zusammen mit meinem Lebenslauf vorgestellt. Ich hoffe, dass dies ein guter Ausgangspunkt für Interessierte an der Programmierung ist und sie dazu inspiriert, ihre Reise zu beginnen.
 
+![portfolio1](https://github.com/user-attachments/assets/478123ec-8010-45f7-8737-e5426c0e4956)
 
 
 # Getting Started with Create React App
