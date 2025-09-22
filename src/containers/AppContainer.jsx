@@ -34,9 +34,15 @@ function AppContainer() {
     }, [isMdUp]);
 
     const handlePageNumber = (event, newPage) => {
+        console.log('Event ist:',event)
+        console.log('page Number ist:',newPage)
         setPageNumber(newPage);
     };
-
+    // for index tab
+    const handlePageChange = index=>{
+        setPageNumber(index)
+    }
+    //for sowapable page tuch screen mobile
     const handleThemeChange = () => {
         setMode((prevMode) => (prevMode === "light" ? "dark" : "light"));
     };
@@ -59,7 +65,7 @@ function AppContainer() {
                 <PagesContainer>
                     <SwipeableViews
                         index={pageNumber}
-                        onChangeIndex={handlePageNumber}
+                        onChangeIndex={handlePageChange}
                     >
                         <Page pageNumber={pageNumber} index={0}>
                             <Home helmetTitle="وب سایت آموزشی و شخصی حسن نظرپرور نوشادی" />

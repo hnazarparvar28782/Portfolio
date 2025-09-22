@@ -18,6 +18,7 @@ const DevEduTimeLine =({loading})=>{
       <Timeline position="right" sx={{ direction: "ltr" }}>
                             {devEdu.map((item, index) => (
                                 <Slide
+                                    key={index}
                                     direction="up"
                                     in={loading}
                                     style={{
@@ -26,7 +27,7 @@ const DevEduTimeLine =({loading})=>{
                                             : "0ms",
                                     }}
                                 >
-                                    <TimelineItem key={index}>
+                                    <TimelineItem key={index+1}>
                                         <TimelineSeparator>
                                             <TimelineDot
                                                 color="info"
