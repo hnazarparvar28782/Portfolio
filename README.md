@@ -1,3 +1,14 @@
+<h1 align="center" style="color: blue;">Portfolio: A Sample React.js Project</h1>
+
+## This sample code is written using React.js and Material-UI. This project offers a simple experience of the capabilities of this platform, especially Material-UI. In this project, I   introduced myself through a portal along with my resume. I hope this serves as a good starting point for those interested in programming and inspires them to begin their journey.
+
+## Dieser Beispielcode ist mit React.js und Material-UI geschrieben. Dieses Projekt bietet eine einfache Erfahrung mit den Möglichkeiten dieser Plattform, insbesondere Material-UI. In diesem Projekt habe ich mich selbst über ein Portal zusammen mit meinem Lebenslauf vorgestellt. Ich hoffe, dass dies ein guter Ausgangspunkt für Interessierte an der Programmierung ist und sie dazu inspiriert, ihre Reise zu beginnen.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/478123ec-8010-45f7-8737-e5426c0e4956" alt="portfolio1" width="300">
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
